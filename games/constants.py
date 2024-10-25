@@ -33,3 +33,5 @@ RED_BULLET = py.transform.rotate(py.transform.scale(BULLET, (80, 80)), -180)
 
 # Font
 HEAL_FONT = py.font.SysFont('comicsans', 35)
+WINNER_FONT = py.font.SysFont('comicsans', 35)
+MENU_FONT = py.font.SysFont('comicsans', 50)
